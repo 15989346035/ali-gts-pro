@@ -1,2 +1,0 @@
-# ali-gts-pro
-project
